@@ -3,6 +3,8 @@
 I build small, reliable tools between accounting data and the people who use it.
 Management student in Lisbon, working on finance automation, ERP data and tax technology.
 
+**Live demos:** [limin-design.github.io](https://limin-design.github.io): try my projects in your browser, no installation.
+
 - **Now:** operations and systems at my family's minimarket (since Jan 2026). I built its invoice-to-price system:
   it reads supplier invoices, proves them against the Portuguese fiscal QR code and updates prices safely.
 - **Studying:** Licenciatura em Gestão (Management), ISCAL Lisbon, finishing 2027.
@@ -10,7 +12,7 @@ Management student in Lisbon, working on finance automation, ERP data and tax te
 
 #### Featured project
 
-**[invoice-pricing-demo](https://github.com/Limin-design/invoice-pricing-demo)**: a public rewrite of the store system on synthetic data.
+**[invoice-pricing-demo](https://github.com/Limin-design/invoice-pricing-demo)**: a public rewrite of the store system on synthetic data. [Try it live](https://limin-design.github.io/invoice-demo/): the same Python code runs in your browser.
 
 - Reads invoice lines and checks them against the fiscal QR code (Portaria 195/2020), one VAT rate at a time.
 - Proposes cost and shelf-price changes, and sends doubtful cases to a person.
@@ -21,7 +23,7 @@ Built with Python, SQLite and pytest (22 tests).
 
 #### Other projects
 
-**[stratforge](https://github.com/Limin-design/stratforge)**: a trading strategy builder in TypeScript and React. Strategies are declarative data, the engine backtests bar by bar without look-ahead, and robustness checks (walk-forward, Monte Carlo, deflated Sharpe ratio) show whether results are real or overfit.
+**[stratforge](https://github.com/Limin-design/stratforge)**: a trading strategy builder in TypeScript and React. Strategies are declarative data, the engine backtests bar by bar without look-ahead, and robustness checks (walk-forward, Monte Carlo, deflated Sharpe ratio) show whether results are real or overfit. [Open the app](https://limin-design.github.io/stratforge/).
 
 #### Tools
 
@@ -33,4 +35,4 @@ Portuguese and Romanian (native) · English (C1)
 
 #### Contact
 
-[LinkedIn](https://www.linkedin.com/in/pedro-mariano-pt)
+[LinkedIn](https://www.linkedin.com/in/pedro-mariano-pt) · [Projects site](https://limin-design.github.io)
