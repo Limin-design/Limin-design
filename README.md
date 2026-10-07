@@ -15,13 +15,13 @@ Management student in Lisbon, working on finance automation, ERP data and tax te
 - Reads invoice lines and checks them against the fiscal QR code (Portaria 195/2020), one VAT rate at a time.
 - Proposes cost and shelf-price changes, and sends doubtful cases to a person.
 - Writes only after the plan has been simulated. Every write has a verified backup, compare-and-swap checks and an undo log.
-- Includes a Power BI model with a star schema and DAX measures for margin health.
+- Includes a Power BI model (star schema, DAX) with a dashboard preview, and an n8n workflow that triages each new invoice and emails "ready to approve" or "needs a person".
 
-Built with Python, SQLite and pytest (21 tests).
+Built with Python, SQLite and pytest (22 tests).
 
 #### Tools
 
-Python · SQL · SQLite · pytest · Power BI / DAX · Excel · Git · OCR · Portuguese fiscal QR
+Python · SQL · SQLite · pytest · Power BI / DAX · n8n · Microsoft Azure · Excel · Git · OCR · Portuguese fiscal QR
 
 #### Languages
 
