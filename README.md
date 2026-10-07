@@ -19,6 +19,10 @@ Management student in Lisbon, working on finance automation, ERP data and tax te
 
 Built with Python, SQLite and pytest (22 tests).
 
+#### Other projects
+
+**[stratforge](https://github.com/Limin-design/stratforge)**: a trading strategy builder in TypeScript and React. Strategies are declarative data, the engine backtests bar by bar without look-ahead, and robustness checks (walk-forward, Monte Carlo, deflated Sharpe ratio) show whether results are real or overfit.
+
 #### Tools
 
 Python · SQL · SQLite · pytest · Power BI / DAX · n8n · Microsoft Azure · Excel · Git · OCR · Portuguese fiscal QR
